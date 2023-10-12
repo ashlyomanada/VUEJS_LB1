@@ -24,7 +24,7 @@ export default {
   name: "HelloWorld",
 };
 </script>
-<style scoped>.container {
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -113,4 +113,5 @@ export default {
 
 .form button:hover {
   background-color: #005ce6;
-}</style>
+}
+<style scoped></style>
